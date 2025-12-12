@@ -1,2 +1,3 @@
 Hello GitHub
 Updated content in file1.
+Feature branch content
